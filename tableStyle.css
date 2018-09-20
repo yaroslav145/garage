@@ -1,0 +1,14 @@
+table
+{
+	border-collapse: collapse;
+	width: 100%;
+	font-size: 16px;
+}
+
+td
+{
+	border: 1px solid black;
+	text-align: center;
+	padding: 10px 0px;
+	background: #F8E391;
+}
